@@ -2,6 +2,8 @@ _A collection of JavaScript utility functions!_
 
 # Examples
 
+## functions
+
 ```
 randomElement([1, 2, 3]);
 //=> 2
